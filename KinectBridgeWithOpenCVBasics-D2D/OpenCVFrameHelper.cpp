@@ -1,7 +1,7 @@
 //-----------------------------------------------------------------------------
 // <copyright file="OpenCVFrameHelper.cpp" company="Microsoft">
 //     Copyright (c) Microsoft Corporation. All rights reserved.
-// </copyright>
+// </copyright>///
 //-----------------------------------------------------------------------------
 
 #include "OpenCVFrameHelper.h"
